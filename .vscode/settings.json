@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "rlgl.h": "c",
+        "*.m": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "algorithm": "c",
+        "stdbool.h": "c",
+        "string.h": "c",
+        "source_location": "c",
+        "random": "c",
+        "raylib.h": "c"
+    }
+}
